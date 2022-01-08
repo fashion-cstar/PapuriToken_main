@@ -1,4 +1,4 @@
-# PapaToken
+# PapuriToken
 ERC-20 based Smart Contract
 
 13% token tax:<br/>
@@ -10,3 +10,5 @@ After which I want help with following:<br/>
 List on uniswap<br/>
 Lock liquidity<br/>
 Renounce contract ownership<br/>
+
+======fashioncstar=========

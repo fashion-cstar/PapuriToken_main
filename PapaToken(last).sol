@@ -940,7 +940,7 @@ library SafeMathUint {
 /////////// Tokens /////////////
 ////////////////////////////////
 
-contract PapaToken is ERC20, Ownable {
+contract PapuriToken is ERC20, Ownable {
     using SafeMath for uint256;
 
     IUniswapV2Router02 public uniswapV2Router;
@@ -979,7 +979,7 @@ contract PapaToken is ERC20, Ownable {
         _inSwapAndLiquify = false;
     }
 
-    constructor() ERC20("PapaToken", "Papa") {
+    constructor() ERC20("PapuriToken", "Papuri") {
 
         wallet1 = 0x5c88c458A0808ABc4F12a2a4EAce222FC5EC5fc8;
         wallet2 = 0x0e8ef3F1e69201dAAc59b3C123e2d271A1031dD0;
